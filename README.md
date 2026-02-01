@@ -8,12 +8,12 @@ Built with:
 
 ## Features
 
-- 🏠 Beautiful landing page with hero section
-- 🍣 Dynamic menu with category filtering
-- 📅 Online table reservation system
-- 📧 Contact form
-- 📱 Fully responsive design
-- 🎨 Modern Asian-inspired theme
+- Beautiful landing page with hero section
+- Dynamic menu with category filtering
+- Online table reservation system
+- Contact form
+- Fully responsive design
+- Modern Asian-inspired theme
 
 ## Project Structure
 
